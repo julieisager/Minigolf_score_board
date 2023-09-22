@@ -46,3 +46,5 @@ export default class ScoreBoard{
 
 
 }
+
+// ingen klasser :(
